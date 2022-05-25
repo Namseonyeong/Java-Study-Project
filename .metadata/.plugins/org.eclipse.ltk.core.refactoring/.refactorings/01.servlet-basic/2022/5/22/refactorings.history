@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;param.js&apos; to &apos;META-INF&apos;" description="Move &apos;param.js&apos; to &apos;META-INF&apos;" destination="src/main/webapp/META-INF" element1="src/main/webapp/param.js" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1653483104862" updateReferences="true"/>
+</session>
